@@ -22,6 +22,7 @@ This website is designed to be a minimalist and visually appealing photography p
 To view or clone this project, you can follow these steps:
 
 1. Clone the repository using Git:
+git clone https://github.com/NotKaede-11/Photo.Portfolio.Website.git
 
 ## Credits
 
